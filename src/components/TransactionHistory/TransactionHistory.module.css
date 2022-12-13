@@ -1,0 +1,22 @@
+.transaction {
+  background: white;
+  width: 700px;
+  margin: 30px auto;
+  text-align: center;
+}
+
+.transactionHistory {
+  width: 100%;
+}
+
+.transactionHistoryHead {
+  background: #57d1dd;
+  height: 45px;
+}
+.tableItem {
+  height: 45px;
+}
+
+.tableItem:nth-child(odd) {
+  background: #d3e7e1;
+}

@@ -1,0 +1,15 @@
+.statistics {
+  width: 500px;
+  margin: 30px auto;
+  background: white;
+  padding: 20px 0 0 0;
+}
+.title {
+  text-align: center;
+  font-weight: bold;
+}
+.statList {
+  display: flex;
+  width: 100%;
+  margin-bottom: 0;
+}

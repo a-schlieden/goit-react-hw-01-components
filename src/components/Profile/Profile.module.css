@@ -1,0 +1,36 @@
+.profile {
+  margin: 30px auto;
+  width: 300px;
+  padding: 20px;
+  text-align: center;
+  background: white;
+}
+.avatar {
+  width: 100px;
+  border-radius: 50%;
+  background: pink;
+  padding: 10px;
+}
+.name {
+  font-weight: bold;
+}
+.stats {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 0;
+}
+.statsItem {
+  display: flex;
+  flex-wrap: wrap;
+}
+.label {
+  width: 100%;
+  text-align: center;
+}
+.quantity {
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+}

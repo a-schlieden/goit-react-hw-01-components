@@ -1,0 +1,35 @@
+.FriendList {
+  margin: 30px auto;
+  width: 300px;
+}
+.status {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  position: absolute;
+  top: 35px;
+}
+.online {
+  background: green;
+}
+.offline {
+  background: red;
+}
+.avatar {
+  padding: 0 20px 0 25px;
+}
+.itemList {
+}
+.item {
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  background: white;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  margin-bottom: 5px;
+  margin-top: 15px;
+  box-shadow: 5px 5px 5px grey;
+}
